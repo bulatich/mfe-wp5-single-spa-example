@@ -1,0 +1,5 @@
+.DS_Store
+host/node_modules
+child-svelte/node_modules
+child-vue/node_modules
+child-react/node_modules

@@ -1,0 +1,4 @@
+#mfe-apps-container {
+  display: flex;
+  justify-content: center;
+}
